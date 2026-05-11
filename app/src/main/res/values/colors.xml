@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Modern Professional Palette: Indigo & Slate -->
+    <color name="primary">#3F51B5</color>
+    <color name="primary_dark">#303F9F</color>
+    <color name="primary_variant">#303F9F</color>
+    <color name="secondary">#FF4081</color>
+    <color name="accent">#FF4081</color>
+
+    <!-- Backgrounds -->
+    <color name="background_splash">#FFFFFF</color>
+    <color name="background_light">#F8F9FA</color>
+    <color name="bg_light">#F8F9FA</color>
+
+    <color name="text_main">#212121</color>
+    <color name="text_hint">#757575</color>
+
+    <!-- Refined Priority Colors -->
+    <color name="bg_low">#E8F5E9</color>
+    <color name="txt_low">#2E7D32</color>
+    <color name="bg_medium">#E3F2FD</color>
+    <color name="txt_medium">#1565C0</color>
+    <color name="bg_high">#FFF3E0</color>
+    <color name="txt_high">#EF6C00</color>
+    <color name="priority_high">#EF6C00</color>
+    <color name="bg_urgent">#FFEBEE</color>
+    <color name="txt_urgent">#C62828</color>
+</resources>

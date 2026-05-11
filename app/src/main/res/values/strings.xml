@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Complaint App</string>
+    <string name="register_complaint">Register Complaint</string>
+    <string name="new_complaint">New Complaint</string>
+    <string name="fill_details">Please provide the details below</string>
+    <string name="student_name">Student Name</string>
+    <string name="roll_number">Roll Number (e.g. BSCS-101)</string>
+    <string name="complaint_title">Complaint Title</string>
+    <string name="category">Category</string>
+    <string name="priority_level">Priority Level</string>
+    <string name="complaint_description">Complaint Description</string>
+    <string name="submit_complaint">Submit Complaint</string>
+    <string name="view_all_complaints">View All Complaints</string>
+    <string name="no_complaints_found">No complaints found</string>
+    <string name="complaint_details">Complaint Details</string>
+    <string name="student_info">Student Info</string>
+    <string name="status">Status</string>
+    <string name="submitted_on">Submitted On</string>
+    <string name="back_to_list">Back to List</string>
+    <string name="complaint_portal">COMPLAINT PORTAL</string>
+    <string name="student_support">Student Support Services</string>
+    <string name="pending">PENDING</string>
+
+    <string-array name="categories">
+        <item>IT</item>
+        <item>Library</item>
+        <item>Transport</item>
+        <item>Hostel</item>
+        <item>Accounts</item>
+        <item>Examination</item>
+        <item>Cafeteria</item>
+        <item>Administration</item>
+    </string-array>
+    <string-array name="priorities">
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+        <item>Urgent</item>
+    </string-array>
+</resources>
